@@ -1,9 +1,8 @@
 @extends('_layouts.master')
 
 @section('content')
-    <h1>fagslog:</h1>
+ <ul>  <h1> <center> <span class="test-css">rude_gay</span></p></h1>
 
-    <span class="test-css">rude_gay</span></p>
-
+</ul>
  
 @endsection
