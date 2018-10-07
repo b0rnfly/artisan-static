@@ -4,14 +4,14 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisan-static-demo.netlify.com',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'Fagsl0g:',
+        'description' => 'my lifelog',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
-        'twitter' => 'johndoe',
-        'github' => 'johndoe',
+        'name' => 'RG',
+        'twitter' => 'RG',
+        'github' => 'RG',
     ],
     'services' => [
         'analytics' => 'UA-XXXXX-Y',
