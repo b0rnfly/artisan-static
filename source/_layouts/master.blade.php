@@ -37,8 +37,10 @@
 
     <footer>
         <small>
-            This project is maintained by <a href="https://raniesantos.netlify.com">Ranie Santos</a>.
-            View the <a href="https://github.com/raniesantos/artisan-static">GitHub repo</a>.
+         young gregory
+         we know they wanna 
+         be me. 
+
         </small>
     </footer>
 
