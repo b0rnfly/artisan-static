@@ -5,7 +5,9 @@
 @section('content')
     <h1>About</h1>
 
-    <p>My name is {{ $page->owner->name }}</p>
+    <p>My name is Greg, and welcome to my journey
+    <ul>
+      <ol> php | ruby </p></Ol>
 
     <h2>Links:</h2>
 
