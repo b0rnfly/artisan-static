@@ -1,9 +1,11 @@
 ---
-title: '04 - Disqus Comments'
-date: 2018-08-31
-image: conversation.jpg
-comments: false
+title: 'we got it, ur lame af'
+date: 2018-10-10
+image:
+comments: true
 ---
-Register the website on [Disqus](https://disqus.com/profile/signup).
-
-Get your **Disqus shortname**, go to `config.php` and add your shortname under the `services` key.
+# okay so everyone knows how it goes right?
+*you wake up and think..* is this really so bad? or maybe i'm just dramatic sometimes. 
+> * that is the furest thing from wrong one can think. 
+## this post makes no sense
+__i know nigga, its just filler content for now__
